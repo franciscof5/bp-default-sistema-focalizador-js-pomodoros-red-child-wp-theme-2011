@@ -2,6 +2,7 @@
 	"name": "f5sites/focalizador-tema",
 	"description": "Tema para o site focalizador. WordPress F5 Sites DEV projects",
 	"type": "wordpress-theme",
+	"version": "0.1",
 	"authors": [
 		{
 			"name": "Francisco Matelli Matulovic",
