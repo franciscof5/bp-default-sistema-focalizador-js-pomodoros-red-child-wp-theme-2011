@@ -47,7 +47,7 @@
 		
 		
 		<div id="header">
-			<a title="<?php bloginfo('name') ?>" href="<?php bloginfo('url'); ?>" class="headertitle"><?php bloginfo('name') ?></a>
+			<a title="<?php bloginfo('name') ?>" href="<?php bloginfo('url'); ?>" class="headertitle" style="width:140px;height:40px; display:inline-block;"><?php #bloginfo('name') ?></a>
 			<?php if (is_user_logged_in()) { ?>
 			<a title="Membros" href="<?php bloginfo('url'); ?>/colegas/"><div href="" id="icone-amigo">&nbsp;</div></a>
 			<a title="Grupos" href="<?php bloginfo('url'); ?>/groups/"><div href="" id="icone-balao">&nbsp;</div></a>

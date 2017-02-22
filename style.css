@@ -22,7 +22,7 @@ Tags: buddypress, red, white, flexible-width, two-columns
 @import url( ../../plugins/buddypress/bp-themes/bp-default/_inc/css/reset.css );
 @import url(pomodoro/pomodoro.css );
 
-.headertitle {font-size:26px; line-height:30px; float:left;font-family:verdana;}
+.headertitle {font-size:26px; line-height:30px; float:left;font-family:verdana;background: url("images/pomodoro-logo-topo.png")}
 #header a {color:#fff;}
 #header a:hover {color:#063;}
 
@@ -133,7 +133,7 @@ span.activity, div#message p {
 #header {
 	position: relative;
 	color:#fff;
-	background:#093; /*#eee; f5sites*/  /* url(pomodoro-banner-1250x125-antigo.jpg) repeat-x; /* url(darwin-sample.gif*/
+	background: #700000 url(pomodoro-banner-1250x125-antigo.jpg) repeat-x; /* url(darwin-sample.gif*/
 	margin-bottom: 1px;
 	padding-top: 1px;	
 	/*margin-bottom: 20px;
@@ -199,7 +199,7 @@ span.activity, div#message p {
 #icone-notif:hover {background:url("icones-topo.png") bottom right;}
 #icones-topo {background:top; height:40px;}
 
-#linha-fundo {position:absolute;width:100%;height:40px;background:#093;left:0;}
+#linha-fundo {position:absolute;width:100%;height:40px;background:#700000;left:0;}
 
 /* > Navigation
 -------------------------------------------------------------- */
