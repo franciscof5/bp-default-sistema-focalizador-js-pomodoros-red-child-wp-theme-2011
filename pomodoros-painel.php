@@ -41,7 +41,7 @@
 	</div><!--fecha pomodoros painel-->
 	<br />
 	<div id="div_status"><script>document.write(txt_mat_introducing)</script></div>
-	<img src="<?php bloginfo('stylesheet_directory'); ?>/mascote_foca.png" />
+	<img src="<?php bloginfo('stylesheet_directory'); ?>/mascote_original.jpg" />
 	<br />
 	<form name="pomopainel">
 		<label><script>document.write(txt_write_task_title)</script></label><br />
