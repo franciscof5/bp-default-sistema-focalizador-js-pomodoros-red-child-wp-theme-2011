@@ -5,6 +5,8 @@
 
 add_action( 'admin_menu', 'my_remove_menu_pages' );
 
+add_filter('show_admin_bar', '__return_false');
+
 function my_remove_menu_pages() {
 	//is_author() if (!is_admin() ) { - if(!current_user_can('administrator')) { if ($user_level < 5) {
 	get_currentuserinfo();
