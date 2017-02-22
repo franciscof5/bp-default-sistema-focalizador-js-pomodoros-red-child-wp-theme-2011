@@ -18,6 +18,15 @@ Theme URI: http://f5sites.com/focalizador-tema
 Original projectimer theme, briged back to life from 2012 for portfolio propouse.
 Tema original do sistema focalizador, restaurado de 2012 como porftolio.
 
+CURRENT GENERATION:
+Theme name: Sistema Focalizador 2011
+Project stopped due separation of plugin and theme, that the end of system based on single theme.
+
+EARLY NAME
+Theme name: Focalizador theme
+Theme location: html-disabled/pomodoros.com.br
+
+
 == Description ==
 
 Original projectimer theme, briged back to life from 2012 for portfolio propouse.
