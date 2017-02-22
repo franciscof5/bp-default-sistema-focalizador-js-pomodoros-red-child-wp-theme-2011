@@ -1,5 +1,6 @@
-=== Focalizador Tema ===
 
+=== Sistema Focalizador 2011 ===
+(early Focalizador Tema)
 Version: 2012.01
 
 WordPress® Compatible: yes
