@@ -26,6 +26,11 @@ Tags: buddypress, red, white, flexible-width, two-columns
 #header a {color:#fff;}
 #header a:hover {color:#063;}
 
+.mdc-theme-switcher {
+    top: 0px;
+    left: 0;
+}
+
 /*f5sites*/
 .register_div_box {background:#CCC;padding:10px 15px;margin:10px auto;border:1px #fff solid; height:110px;}
 .register_div_box:hover {background:#EEE;border:1px #666 solid;}

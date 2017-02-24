@@ -24,7 +24,7 @@ var secondsRemaing = pomodoroTime;
 var interval_clock=false;
 
 //With that line mootools can use the selector ($) and jQuery use the selector (jQuery), without conflict
-jQuery.noConflict();
+//jQuery.noConflict();
 
 //There only one button at the page, all the actions (trigglers) start here
 function action_button() {
